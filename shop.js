@@ -316,7 +316,7 @@ class Shop {
         console.log('Initializing shop...');
         this.shopItems = shopItems;
         this.currentCategory = 'pets';
-        this.coins = 1000;
+        this.coins = 100000000;
         
         // Initialize the shop
         this.initializeEventListeners();

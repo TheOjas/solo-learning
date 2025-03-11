@@ -5,7 +5,7 @@ const shopItems = {
             id: 'study-owl',
             name: 'Study Owl',
             description: 'A wise companion that boosts your focus and learning speed.',
-            price: 2000,
+            price: 200,
             rarity: 'epic',
             imagePath: 'owl.png',
             category: 'pets',
